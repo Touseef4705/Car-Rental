@@ -1,0 +1,54 @@
+{
+  "name": "rentacar-reactjs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@react-buddy/ide-toolbox": "^2.4.0",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.3.1",
+    "bootstrap-daterangepicker": "^3.1.0",
+    "firebase": "^10.7.1",
+    "jquery": "^3.7.0",
+    "json-loader": "^0.5.7",
+    "moment": "^2.29.4",
+    "node-sass": "npm:sass@^1.66.1",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "^18.2.0",
+    "react-google-recaptcha": "^3.1.0",
+    "react-icons": "^4.10.1",
+    "react-lazy-load-image-component": "^1.6.0",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^6.15.0",
+    "react-scripts": "^2.1.3",
+    "react-select": "^5.8.0",
+    "redux-persist": "^6.0.0",
+    "sweetalert2": "^11.6.13",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "sass": "^1.66.1"
+  }
+}

@@ -1,0 +1,122 @@
+{
+    "vehicles": [
+        {
+            "brand": "Hyundai",
+            "model": {
+                "Bayon": {
+                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/hyundai/bayon.png",
+                    "power": "100 HP",
+                    "engineSize": "1398 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "SUV",
+                    "fuelType": "Gas"
+                },
+                "i20": {
+                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/hyundai/i20.png",
+                    "power": "100 HP",
+                    "engineSize": "1368 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Hatchback",
+                    "fuelType": "Gas"
+                }
+            }
+        },
+        {
+            "brand": "BMW",
+            "model": {
+                "320d": {
+                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/bmw/320d.png",
+                    "power": "187 HP",
+                    "engineSize": "1995 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Sedan",
+                    "fuelType": "Diesel"
+                },
+                "520i": {
+                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/bmw/520i.png",
+                    "power": "170 HP",
+                    "engineSize": "1597 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Sedan",
+                    "fuelType": "Gas"
+                }
+            }
+        },
+        {
+            "brand": "Opel",
+            "model": {
+                "Astra": {
+                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/opel/astra.png",
+                    "power": "130 HP",
+                    "engineSize": "1199 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Hatchback",
+                    "fuelType": "Gas"
+                }
+            }
+        },
+        {
+            "brand": "Toyota",
+            "model": {
+                "Corolla": {
+                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/toyota/corolla.png",
+                    "power": "123 HP",
+                    "engineSize": "1490 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "Sedan",
+                    "fuelType": "Gas"
+                }
+            }
+        },
+        {
+            "brand": "Nissan",
+            "model": {
+                "Qashqai": {
+                    "imageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/vehicles/nissan/qashqai.png",
+                    "power": "190 HP",
+                    "engineSize": "1497 cc",
+                    "gearbox": "Automatic",
+                    "bodyType": "SUV",
+                    "fuelType": "Hybrid"
+                }
+            }
+        }
+    ],
+    "locations": [
+        "Amsterdam, Netherlands",
+        "Helsinki, Finland",
+        "Copenhagen, Denmark",
+        "Auckland, New Zealand",
+        "Sydney, Australia",
+        "Vancouver, Canada",
+        "Zurich, Switzerland",
+        "Tokyo, Japan",
+        "Zurich, Switzerland"
+    ],
+    "customer-reviews": [
+        {
+            "customerImageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/reviews/customer-1.jpg",
+            "customerName": "James",
+            "customerReview": "Renting was much easier than I expected!",
+            "customerStar": 5
+        },
+        {
+            "customerImageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/reviews/customer-2.jpg",
+            "customerName": "Olivia",
+            "customerReview": "I am very satisfied, I will use 'Rent a Car' again.",
+            "customerStar": 4
+        },
+        {
+            "customerImageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/reviews/customer-3.jpg",
+            "customerName": "Charlotte",
+            "customerReview": "Excellent, 5 stars!",
+            "customerStar": 5
+        },
+        {
+            "customerImageUrl": "https://raw.githubusercontent.com/fbatuhanr/RentaCar-ReactJS/master/src/assets/images/reviews/customer-4.jpg",
+            "customerName": "Michael",
+            "customerReview": "It was a nice experience",
+            "customerStar": 4
+        }
+    ]
+}
